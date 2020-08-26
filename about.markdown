@@ -9,7 +9,7 @@ permalink: /about/
 
 | 姓名 | 邮箱 | 博客 | GitHub |
 | :---: | :---: | :---: | :---: | 
-| 王江 | alex1989wang@gmail.com | http://www.awsomejiang.com | https://github.com/Alex1989Wang |
+| 王江 | alex1989wang@gmail.com | http://www.awesomejiang.cn/ | https://github.com/Alex1989Wang |
 
 # 自我评价
 
